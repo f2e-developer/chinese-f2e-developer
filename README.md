@@ -1,3 +1,11 @@
+<!--
+ * @Author: chengxinsong
+ * @Date: 2022-08-19 17:50:13
+ * @LastEditors: chengxinsong
+ * @LastEditTime: 2022-08-19 17:51:21
+ * @FilePath: /chinese-f2e-developer-1/README.md
+ * @Description: 
+-->
 # 中国前端开发者
 
 > 个人视野有限，请不吝 PR！缓慢施工 🚧 中。
@@ -23,6 +31,7 @@
 * **[三元](https://github.com/sanyuan0704)** - 字节员工，公众号「三元同学」作者。
 * **[Scott](https://github.com/zaoscott)** - 「[前端早早聊大会](https://www.zaozao.run/)」创始人，帮 1000 多位国内外前端工程师做过职业规划与辅导。
 * **[‌神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
+* **[saucxs](https://github.com/saucxs)** - 字节员工，公众号「松宝写代码」作者，[watermark-dom](https://github.com/saucxs/watermark-dom)开源库作者。
 * **[童欧巴](https://github.com/Geekhyt)** - 理想汽车员工，公众号「前端食堂」、「[前端食堂技术周刊](https://github.com/Geekhyt/weekly)」作者。
 * **[秋风](https://github.com/hua1995116)** - 公众号「秋风的笔记」作者。
 * **[速冻鱼](https://github.com/sudongyuer)** - 开源爱好者，公众号「前端速冻鱼」作者，写有开源小书[《ESLint通关小册》](https://github.com/sudongyuer/learn-eslint)。
