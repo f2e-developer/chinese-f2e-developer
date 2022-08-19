@@ -15,6 +15,7 @@
 * **[大圣](https://github.com/shengxinjing)** - 花果山大圣，前开课吧讲师，公众号「花果山前端」作者。
 * **[海怪](https://github.com/haixiangyan)** - 腾讯员工，公众号「写代码的海怪」作者，写有开源小书[《Jest 实践指南》](https://github.com/haixiangyan/jest-tutorial)。
 * **[Hax](https://github.com/hax)** - 。
+* **[黄轶](https://github.com/ustbhuangyi)** - 前端架构师，目前就职于zoom。
 * **[霍春阳](https://github.com/HcySunYang)** - Vue 团队成员，[《Vue.js 设计与实现》](https://book.douban.com/subject/35768338/)作者。
 * **‌技术胖** - 。
 * **[justjavac](https://github.com/justjavac)** - 。
