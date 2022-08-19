@@ -11,17 +11,17 @@
 > 排名不分先后，以 [首字母].sort() 排序。
 
 * **[antfu](https://github.com/antfu)** - 狂热的开源软件开发者，就职于 [NuxtLabs](https://nuxtlabs.com/)，Vitest、Slidev、VueUse、UnoCSS 等库作者，Vue、Nuxt、Vite 核心成员。
-* **SSH** - 单是昊，字节员工，公众号「前端从进阶到入门」作者。
+* **[SSH](https://github.com/sl1673495)** - 单是昊，字节员工，公众号「前端从进阶到入门」作者。
 * **大圣** - 花果山大圣，前开课吧讲师，公众号「花果山前端」作者。
 * **海怪** - 腾讯员工，公众号「写代码的海怪」作者，写有开源小书[《Jest 实践指南》](https://github.com/haixiangyan)。
-* **Hax** - 。
-* **霍春阳** - Vue 团队成员，[《Vue.js 设计与实现》](https://book.douban.com/subject/35768338/)作者。
+* **[Hax](https://github.com/hax)** - 。
+* **[霍春阳](https://github.com/HcySunYang)** - Vue 团队成员，[《Vue.js 设计与实现》](https://book.douban.com/subject/35768338/)作者。
 * **‌技术胖** - 。
-* **justjavac** - 。
+* **[justjavac](https://github.com/justjavac)** - 。
 * **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
 * **[卡颂](https://github.com/BetaSu)** - 。
 * **三元** - 字节员工，公众号「三元同学」作者。
-* **‌神光** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者。
+* **[‌神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
 * **童欧巴** - 公众号「前端食堂」作者。
 * **‌秋风** - 公众号「秋风的笔记	」作者。
 * **[期贤](https://github.com/chenshuai2144)** - 蚂蚁员工，名望程序员，[Ant Design Pro](https://pro.ant.design/) 作者。
