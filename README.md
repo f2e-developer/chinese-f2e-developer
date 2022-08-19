@@ -20,6 +20,7 @@
 * **[justjavac](https://github.com/justjavac)** - 。
 * **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
 * **[卡颂](https://github.com/BetaSu)** - 。
+* **[Kaiyi](https://github.com/Kaiyiwing)** 开源爱好者，[Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner)、[Qwerty Learner VSCode](https://github.com/Kaiyiwing/qwerty-learner-vscode) 作者。
 * **[三元](https://github.com/sanyuan0704)** - 字节员工，公众号「三元同学」作者。
 * **[Scott](https://github.com/zaoscott)** - 「[前端早早聊大会](https://www.zaozao.run/)」创始人，帮 1000 多位国内外前端工程师做过职业规划与辅导。
 * **[‌神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
