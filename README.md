@@ -26,7 +26,6 @@
 * **‌秋风** - 公众号「秋风的笔记」作者。
 * **[期贤](https://github.com/chenshuai2144)** - 蚂蚁员工，名望程序员，[Ant Design Pro](https://pro.ant.design/) 作者。
 * **[偏右](https://github.com/afc163)** - 蚂蚁员工，[Ant Design](https://ant.design/) 作者。
-* **玉伯** - 蚂蚁员工，蚂蚁体验技术部负责人。
 * **[辟起](https://github.com/PeachScript)** - 蚂蚁员工，[dumi](https://d.umijs.org/) 作者。
 * **若川** - 公众号「若川视野」作者，源码共读领头人。
 * **天猪** - 。
@@ -36,6 +35,7 @@
 * **[有知](https://github.com/kuitos)** - 蚂蚁员工，[qiankun](https://github.com/umijs/qiankun) 作者。
 * **[云谦](https://github.com/sorrycc)** - 阿里 & 蚂蚁 10 年 + 老前端，ZJU，[Umi](https://github.com/umijs/umi) & [Dva](https://github.com/dvajs/dva) 等开源库作者，蚂蚁中台框架 Owner，「MDH 前端周刊」作者，付费星球[「云谦 · 前端日更星球」](https://q.sorrycc.com/)作者。
 * **[月影](https://github.com/akira-cn)** - 字节员工，前奇舞团负责人，「跟月影学可视化」等课程作者。
+* **玉伯** - 蚂蚁员工，蚂蚁体验技术部负责人。
 * **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
 
 ## 不活跃开发者
