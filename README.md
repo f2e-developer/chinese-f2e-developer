@@ -41,6 +41,7 @@
 * **玉伯** - 蚂蚁员工，蚂蚁体验技术部负责人。
 * **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
 * **[underfin](https://github.com/underfin)** - 字节员工，vite 核心作者。[vite](https://github.com/vitejs/vite) ,vue core 核心 member。
+* **[外星人👽](https://github.com/GoodLuckAlien)** - 美团员工，公众号「前端Sharing」作者，[《React进阶实践指南》](https://juejin.cn/book/6945998773818490884) 作者
 
 ## 不活跃开发者
 
