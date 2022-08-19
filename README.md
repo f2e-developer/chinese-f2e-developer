@@ -41,7 +41,7 @@
 * **玉伯** - 蚂蚁员工，蚂蚁体验技术部负责人。
 * **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
 * **[underfin](https://github.com/underfin)** - 字节员工，vite 核心作者。[vite](https://github.com/vitejs/vite) ,vue core 核心 member。
-* **[草鞋没号](https://github.com/caoxiemeihao)** - 哈啰员工，vite 生态开发者。[electron-vite](https://github.com/electron-vite/electron-vite-vue)，[vite-plugin](https://github.com/vite-plugin)。
+* **[草鞋没号](https://github.com/caoxiemeihao)** - 哈啰员工，vite 生态开发者。[electron-vite](https://github.com/electron-vite)，[vite-plugin](https://github.com/vite-plugin)。
 
 ## 不活跃开发者
 
