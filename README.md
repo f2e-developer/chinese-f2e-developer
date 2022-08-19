@@ -29,7 +29,7 @@
 * **[辟起](https://github.com/PeachScript)** - 蚂蚁员工，[dumi](https://d.umijs.org/) 作者。
 * **若川** - 公众号「若川视野	」作者，源码共读领头人。
 * **天猪** - 。
-* **[小虎](https://github.com/xiaohuoni)** - 聪小陈、小火泥，[Alita](https://github.com/alitajs/alita) 作者，Umi 核心成员。
+* **[小虎](https://github.com/xiaohuoni)** - 聪小陈，[Alita](https://github.com/alitajs/alita) 作者，Umi 核心成员。
 * **‌冴羽** - 。
 * **YCK** - 。
 * **[有知](https://github.com/kuitos)** - 蚂蚁员工，[qiankun](https://github.com/umijs/qiankun) 作者。
