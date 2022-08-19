@@ -17,7 +17,7 @@
 * **[Hax](https://github.com/hax)** - 。
 * **[霍春阳](https://github.com/HcySunYang)** - Vue 团队成员，[《Vue.js 设计与实现》](https://book.douban.com/subject/35768338/)作者。
 * **‌技术胖** - 。
-* **justjavac** - 。
+* **[justjavac](https://github.com/justjavac)** - 。
 * **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
 * **[卡颂](https://github.com/BetaSu)** - 。
 * **三元** - 字节员工，公众号「三元同学」作者。
