@@ -22,6 +22,7 @@
 * **[卡颂](https://github.com/BetaSu)** - 。
 * **三元** - 字节员工，公众号「三元同学」作者。
 * **[‌神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
+* **[速冻鱼](https://github.com/sudongyuer)** - 开源爱好者，公众号「前端速冻鱼」作者，写有开源小书[《ESLint通关小册》](https://github.com/sudongyuer/learn-eslint)。
 * **童欧巴** - 公众号「前端食堂」作者。
 * **‌秋风** - 公众号「秋风的笔记」作者。
 * **[期贤](https://github.com/chenshuai2144)** - 蚂蚁员工，名望程序员，[Ant Design Pro](https://pro.ant.design/) 作者。
