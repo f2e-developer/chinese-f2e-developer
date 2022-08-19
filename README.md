@@ -24,6 +24,7 @@
 * **[‌神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
 * **[童欧巴](https://github.com/Geekhyt)** - 公众号「前端食堂」作者。
 * **[秋风](https://github.com/hua1995116)** - 公众号「秋风的笔记	」作者。
+* **[速冻鱼](https://github.com/sudongyuer)** - 开源爱好者，公众号「前端速冻鱼」作者，写有开源小书[《ESLint通关小册》](https://github.com/sudongyuer/learn-eslint)。
 * **[期贤](https://github.com/chenshuai2144)** - 蚂蚁员工，名望程序员，[Ant Design Pro](https://pro.ant.design/) 作者。
 * **[偏右](https://github.com/afc163)** - 蚂蚁员工，[Ant Design](https://ant.design/) 作者。
 * **[辟起](https://github.com/PeachScript)** - 蚂蚁员工，[dumi](https://d.umijs.org/) 作者。
@@ -37,6 +38,7 @@
 * **[月影](https://github.com/akira-cn)** - 字节员工，前奇舞团负责人，「跟月影学可视化」等课程作者。
 * **玉伯** - 蚂蚁员工，蚂蚁体验技术部负责人。
 * **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
+* **[underfin](https://github.com/underfin)** - 字节员工，vite 核心作者。[vite](https://github.com/vitejs/vite) ,vue core 核心 member。
 
 ## 不活跃开发者
 
