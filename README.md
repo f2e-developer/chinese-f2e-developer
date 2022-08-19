@@ -22,6 +22,7 @@
 * **[卡颂](https://github.com/BetaSu)** - 。
 * **三元** - 字节员工，公众号「三元同学」作者。
 * **‌神光** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者。
+* **[速冻鱼](https://github.com/sudongyuer)** - 开源爱好者，公众号「前端速冻鱼」作者，写有开源小书[《ESLint通关小册》](https://github.com/sudongyuer/learn-eslint)。
 * **童欧巴** - 公众号「前端食堂」作者。
 * **‌秋风** - 公众号「秋风的笔记	」作者。
 * **[期贤](https://github.com/chenshuai2144)** - 蚂蚁员工，名望程序员，[Ant Design Pro](https://pro.ant.design/) 作者。
@@ -35,7 +36,6 @@
 * **[有知](https://github.com/kuitos)** - 蚂蚁员工，[qiankun](https://github.com/umijs/qiankun) 作者。
 * **[云谦](https://github.com/sorrycc)** - 阿里 & 蚂蚁 10 年 + 老前端，ZJU，[Umi](https://github.com/umijs/umi) & [Dva](https://github.com/dvajs/dva) 等开源库作者，蚂蚁中台框架 Owner，「MDH 前端周刊」作者，付费星球[「云谦 · 前端日更星球」](https://q.sorrycc.com/)作者。
 * **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
-* **[速冻鱼](https://github.com/sudongyuer)** - 开源爱好者，公众号「前端速冻鱼」作者，写有开源小书[《ESLint通关小册》](https://github.com/sudongyuer/learn-eslint)。
 
 ## 不活跃开发者
 
