@@ -1,11 +1,3 @@
-<!--
- * @Author: chengxinsong
- * @Date: 2022-08-19 17:50:13
- * @LastEditors: chengxinsong
- * @LastEditTime: 2022-08-19 17:51:21
- * @FilePath: /chinese-f2e-developer-1/README.md
- * @Description: 
--->
 # 中国前端开发者
 
 > 个人视野有限，请不吝 PR！缓慢施工 🚧 中。
