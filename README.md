@@ -31,6 +31,7 @@
 * **[辟起](https://github.com/PeachScript)** - 蚂蚁员工，[dumi](https://d.umijs.org/) 作者。
 * **[若川](https://github.com/lxchuan12)** - 公众号「若川视野」作者，源码共读领头人。
 * **[天猪](https://github.com/atian25)** - 。
+* **[theanarkh](https://github.com/theanarkh)** - 字节员工，公众号「编程杂技」作者，nodejs 爱好者，写有「[通过源码分析nodejs原理](https://github.com/theanarkh/understand-nodejs)」等 nodejs 相关内容。
 * **[小虎](https://github.com/xiaohuoni)** - 聪小陈，[Alita](https://github.com/alitajs/alita) 作者，Umi 核心成员。
 * **[冴羽](https://github.com/mqyqingfeng)** - 。
 * **[YCK](https://github.com/KieSun)** - 。
