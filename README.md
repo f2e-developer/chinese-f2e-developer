@@ -17,7 +17,7 @@
 * **[Hax](https://github.com/hax)** - 。
 * **[霍春阳](https://github.com/HcySunYang)** - Vue 团队成员，[《Vue.js 设计与实现》](https://book.douban.com/subject/35768338/)作者。
 * **‌技术胖** - 。
-* **[JounQin](https://github.com/JounQin)** - 狂热开源爱好者，[@Alauda](https://github.com/alauda) 灵雀云在职员工，[`unified`](https://github.com/unifiedjs) 生态核心维护者和开发者，[`eslint`](https://github.com/eslint/eslint) 生态开发者，[`eslint-plugin-prettier`](https://github.com/prettier/eslint-plugin-prettier) 和 [`stylelint`](https://github.com/stylelint/stylelint) 维护者。
+* **[JounQin](https://github.com/JounQin)** - 狂热开源爱好者，[@Alauda](https://github.com/alauda) 灵雀云在职员工，[unified](https://github.com/unifiedjs) 生态核心维护者和开发者，[eslint](https://github.com/eslint/eslint) 生态开发者，[eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) 和 [stylelint](https://github.com/stylelint/stylelint) 维护者。
 * **[justjavac](https://github.com/justjavac)** - 。
 * **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
 * **[卡颂](https://github.com/BetaSu)** - 。
