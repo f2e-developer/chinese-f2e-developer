@@ -38,6 +38,7 @@
 * **[月影](https://github.com/akira-cn)** - 字节员工，前奇舞团负责人，「跟月影学可视化」等课程作者。
 * **玉伯** - 蚂蚁员工，蚂蚁体验技术部负责人。
 * **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
+* **[underfin](https://github.com/underfin)** - 字节员工，vite 核心作者。[vite](https://github.com/vitejs/vite) ,vue core 核心 member。
 
 ## 不活跃开发者
 
