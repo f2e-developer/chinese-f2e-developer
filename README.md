@@ -18,6 +18,7 @@
 * **[黄轶](https://github.com/ustbhuangyi)** - zoom 员工，慕课网[明星讲师](https://www.imooc.com/u/3017249)，Vue.js 布道者，[《Vue.js 技术揭秘》](https://ustbhuangyi.github.io/vue-analysis/) 独立作者，《Vue.js 权威指南》主要作者。
 * **[霍春阳](https://github.com/HcySunYang)** - Vue 团队成员，[《Vue.js 设计与实现》](https://book.douban.com/subject/35768338/)作者。
 * **‌技术胖** - 。
+* **[JounQin](https://github.com/JounQin)** - 狂热开源爱好者，[@Alauda](https://github.com/alauda) 灵雀云在职员工，[unified](https://github.com/unifiedjs) 生态核心维护者和开发者，[eslint](https://github.com/eslint/eslint) 生态开发者，[eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) 和 [stylelint](https://github.com/stylelint/stylelint) 维护者。
 * **[justjavac](https://github.com/justjavac)** - 。
 * **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
 * **[卡晨](https://github.com/awmleer)** - 蚂蚁员工，[Antd Mobile](https://github.com/ant-design/ant-design-mobile) 作者。
