@@ -14,7 +14,7 @@
 * **[SSH](https://github.com/sl1673495)** - 单是昊，字节员工，公众号「前端从进阶到入门」作者。
 * **[大圣](https://github.com/shengxinjing)** - 花果山大圣，前开课吧讲师，公众号「花果山前端」作者。
 * **[海怪](https://github.com/haixiangyan)** - 腾讯员工，公众号「写代码的海怪」作者，写有开源小书[《Jest 实践指南》](https://github.com/haixiangyan/jest-tutorial)。
-* **[Hax](https://github.com/hax)** - 。
+* **[Hax](https://github.com/hax)** - 百姓网前端技术专家，信仰 Web 标准，HTML 纯化论者 +CSS 理想主义者 +JavaScript 改革派 +REST 信徒。
 * **[黄玄](https://github.com/Huxpro)** - 。
 * **[黄轶](https://github.com/ustbhuangyi)** - zoom 员工，慕课网[明星讲师](https://www.imooc.com/u/3017249)，Vue.js 布道者，[《Vue.js 技术揭秘》](https://ustbhuangyi.github.io/vue-analysis/) 独立作者，《Vue.js 权威指南》主要作者。
 * **[霍春阳](https://github.com/HcySunYang)** - Vue 团队成员，[《Vue.js 设计与实现》](https://book.douban.com/subject/35768338/)作者。
@@ -37,7 +37,7 @@
 * **[天猪](https://github.com/atian25)** - 。
 * **[theanarkh](https://github.com/theanarkh)** - 字节员工，公众号「编程杂技」作者，nodejs 爱好者，写有「[通过源码分析nodejs原理](https://github.com/theanarkh/understand-nodejs)」等 nodejs 相关内容。
 * **[小虎](https://github.com/xiaohuoni)** - 聪小陈，[Alita](https://github.com/alitajs/alita) 作者，Umi 核心成员。
-* **[冴羽](https://github.com/mqyqingfeng)** - 。
+* **[冴羽](https://github.com/mqyqingfeng)** - 前端系列文章上百篇。
 * **[YCK](https://github.com/KieSun)** - 。
 * **[有知](https://github.com/kuitos)** - 蚂蚁员工，[qiankun](https://github.com/umijs/qiankun) 作者。
 * **[云谦](https://github.com/sorrycc)** - 阿里 & 蚂蚁 10 年 + 老前端，ZJU，[Umi](https://github.com/umijs/umi) & [Dva](https://github.com/dvajs/dva) 等开源库作者，蚂蚁中台框架 Owner，「MDH 前端周刊」作者，付费星球[「云谦 · 前端日更星球」](https://q.sorrycc.com/)作者。
@@ -46,6 +46,13 @@
 * **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
 * **[underfin](https://github.com/underfin)** - 字节员工，vite 核心作者。[vite](https://github.com/vitejs/vite) ,vue core 核心 member。
 * **[张鑫旭](https://github.com/zhangxinxu)** - 阅文员工， 写有《CSS世界》、《CSS新世界》、《CSS选择器》，CSS领域大佬。
+* **[Jinzhan](https://github.com/jinzhan)** - 百度员工，San 开源库作者。
+* **[阮一峰](https://github.com/ruanyf)** - ECMAScript 6入门作者，经济学和IT。
+* **[朴灵](https://github.com/JacksonTian)** - Node.js布道者，著有《深入浅出Node.js》。他活跃于CNode社区，是线下会议NodeParty的组织者，同时也是JSConf China（沪JS、京JS，以及杭JS）的组织者之一。
+* **[尤雨溪](https://github.com/yyx990803)** - vue.js 项目作者。
+* **[廖雪峰](https://github.com/yyx990803)** - 著有号称史上最浅显易懂的Git教程，口碑不错的《JS教程》。
+* **[勾三股四](https://github.com/jinjiang/)** -。
+* **[大漠](https://www.w3cplus.com/)** - W3CPlus创始人，《图解CSS3：核心技术与案例实战》作者。
 
 ## 不活跃开发者
 
