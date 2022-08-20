@@ -46,6 +46,7 @@
 * **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
 * **[underfin](https://github.com/underfin)** - 字节员工，vite 核心作者。[vite](https://github.com/vitejs/vite) ,vue core 核心 member。
 * **[张鑫旭](https://github.com/zhangxinxu)** - 阅文员工， 写有《CSS世界》、《CSS新世界》、《CSS选择器》，CSS领域大佬。
+* **[ShenQingchuan](https://github.com/ShenQingchuan)** - 字节员工，Vue 中文文档团队成员 & Vite 中文文档译者、维护者。
 
 ## 不活跃开发者
 
