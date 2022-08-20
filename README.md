@@ -24,6 +24,7 @@
 * **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
 * **[卡晨](https://github.com/awmleer)** - 蚂蚁员工，[Antd Mobile](https://github.com/ant-design/ant-design-mobile) 作者。
 * **[卡颂](https://github.com/BetaSu)** - 。
+* **[刘博文](https://github.com/berwin)** - 360员工，W3C性能工作组成员，[《深入浅出Vue.js》](https://book.douban.com/subject/32581281) 作者。
 * **[三元](https://github.com/sanyuan0704)** - 字节员工，公众号「三元同学」作者。
 * **[Scott](https://github.com/zaoscott)** - 「[前端早早聊大会](https://www.zaozao.run/)」创始人，帮 1000 多位国内外前端工程师做过职业规划与辅导。
 * **[‌神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
@@ -33,6 +34,7 @@
 * **[期贤](https://github.com/chenshuai2144)** - 蚂蚁员工，名望程序员，[Ant Design Pro](https://pro.ant.design/) 作者。
 * **[偏右](https://github.com/afc163)** - 蚂蚁员工，[Ant Design](https://ant.design/) 作者。
 * **[辟起](https://github.com/PeachScript)** - 蚂蚁员工，[dumi](https://d.umijs.org/) 作者。
+* **[朴灵](https://github.com/JacksonTian)** - 阿里员工，NodeJs布道者，[《深入浅出Node.js》](https://book.douban.com/subject/25768396/)作者。
 * **[若川](https://github.com/lxchuan12)** - 公众号「若川视野」作者，源码共读领头人。
 * **[天猪](https://github.com/atian25)** - 。
 * **[theanarkh](https://github.com/theanarkh)** - 字节员工，公众号「编程杂技」作者，nodejs 爱好者，写有「[通过源码分析nodejs原理](https://github.com/theanarkh/understand-nodejs)」等 nodejs 相关内容。
