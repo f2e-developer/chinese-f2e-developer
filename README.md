@@ -51,7 +51,7 @@
 
 > 不再活跃的开发者会定期挪到这里。排名不分先后，以 [首字母].sort() 排序。
 
-。
+* **[‌司徒正美](https://github.com/RubyLouvre)** - 前去哪儿网前端架构师，写有《JavaScript框架设计》，开源框架avalon、mass，anujs作者。
 
 ## 参考
 
