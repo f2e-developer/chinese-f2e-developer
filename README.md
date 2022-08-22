@@ -11,7 +11,7 @@
 > 排名不分先后，以 [首字母].sort() 排序。
 
 * **[antfu](https://github.com/antfu)** - 狂热的开源软件开发者，就职于 [NuxtLabs](https://nuxtlabs.com/)，Vitest、Slidev、VueUse、UnoCSS 等库作者，Vue、Nuxt、Vite 核心成员。
-* **[SSH](https://github.com/sl1673495)** - 单是昊，字节员工，公众号「前端从进阶到入门」作者。
+* **[ConardLi](https://github.com/ConardLi)** - 世奇，字节员工，公众号「code秘密花园」作者。
 * **[大圣](https://github.com/shengxinjing)** - 花果山大圣，前开课吧讲师，公众号「花果山前端」作者。
 * **[海怪](https://github.com/haixiangyan)** - 腾讯员工，公众号「写代码的海怪」作者，写有开源小书[《Jest 实践指南》](https://github.com/haixiangyan/jest-tutorial)。
 * **[Hax](https://github.com/hax)** - 。
@@ -28,6 +28,7 @@
 * **[三元](https://github.com/sanyuan0704)** - 字节员工，公众号「三元同学」作者。
 * **[Scott](https://github.com/zaoscott)** - 「[前端早早聊大会](https://www.zaozao.run/)」创始人，帮 1000 多位国内外前端工程师做过职业规划与辅导。
 * **[‌神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
+* **[SSH](https://github.com/sl1673495)** - 单是昊，字节员工，公众号「前端从进阶到入门」作者。
 * **[死月](https://github.com/XadillaX)** - 。
 * **[童欧巴](https://github.com/Geekhyt)** - 理想汽车员工，公众号「前端食堂」、「[前端食堂技术周刊](https://github.com/Geekhyt/weekly)」作者。
 * **[秋风](https://github.com/hua1995116)** - 公众号「秋风的笔记」作者。
