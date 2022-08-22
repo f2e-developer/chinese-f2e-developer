@@ -45,7 +45,7 @@
 * **[有知](https://github.com/kuitos)** - 蚂蚁员工，[qiankun](https://github.com/umijs/qiankun) 作者。
 * **[云谦](https://github.com/sorrycc)** - 阿里 & 蚂蚁 10 年 + 老前端，ZJU，[Umi](https://github.com/umijs/umi) & [Dva](https://github.com/dvajs/dva) 等开源库作者，蚂蚁中台框架 Owner，「MDH 前端周刊」作者，付费星球[「云谦 · 前端日更星球」](https://q.sorrycc.com/)作者。
 * **[月影](https://github.com/akira-cn)** - 字节员工，前奇舞团负责人，「跟月影学可视化」等课程作者。
-* **玉伯** - 蚂蚁员工，蚂蚁体验技术部负责人。
+* **[玉伯](https://github.com/lifesinger)** - 蚂蚁员工，蚂蚁体验技术部负责人。
 * **[一丝](https://github.com/yisibl)** - 阿里员工，resvg-js 作者，iconfont.cn、PostCSS 官方开发者。
 * **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
 * **[underfin](https://github.com/underfin)** - 字节员工，vite 核心作者。[vite](https://github.com/vitejs/vite) ,vue core 核心 member。
