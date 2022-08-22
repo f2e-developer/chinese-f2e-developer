@@ -27,8 +27,7 @@
 * **[三元](https://github.com/sanyuan0704)** - 字节员工，公众号「三元同学」作者。
 * **[Scott](https://github.com/zaoscott)** - 「[前端早早聊大会](https://www.zaozao.run/)」创始人，帮 1000 多位国内外前端工程师做过职业规划与辅导。
 * **[‌神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
-* **[三咲智子](https://github.com/sxzz)** - 大三学生，element-plus核心开发者。
-* **[死月](https://github.com/XadillaX)** - p6。
+* **[死月](https://github.com/XadillaX)** - 。
 * **[童欧巴](https://github.com/Geekhyt)** - 理想汽车员工，公众号「前端食堂」、「[前端食堂技术周刊](https://github.com/Geekhyt/weekly)」作者。
 * **[秋风](https://github.com/hua1995116)** - 公众号「秋风的笔记」作者。
 * **[速冻鱼](https://github.com/sudongyuer)** - 开源爱好者，公众号「前端速冻鱼」作者，写有开源小书[《ESLint通关小册》](https://github.com/sudongyuer/learn-eslint)。
