@@ -11,6 +11,7 @@
 > 排名不分先后，以 [首字母].sort() 排序。
 
 * **[antfu](https://github.com/antfu)** - 狂热的开源软件开发者，就职于 [NuxtLabs](https://nuxtlabs.com/)，Vitest、Slidev、VueUse、UnoCSS 等库作者，Vue、Nuxt、Vite 核心成员。
+* **[ConardLi](https://github.com/ConardLi)** - 世奇，字节员工，公众号「code秘密花园」作者。
 * **[SSH](https://github.com/sl1673495)** - 单是昊，字节员工，公众号「前端从进阶到入门」作者。
 * **[大圣](https://github.com/shengxinjing)** - 花果山大圣，前开课吧讲师，公众号「花果山前端」作者。
 * **[海怪](https://github.com/haixiangyan)** - 腾讯员工，公众号「写代码的海怪」作者，写有开源小书[《Jest 实践指南》](https://github.com/haixiangyan/jest-tutorial)。
