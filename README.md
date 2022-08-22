@@ -14,7 +14,7 @@
 * **[ConardLi](https://github.com/ConardLi)** - 世奇，字节员工，公众号「code秘密花园」作者。
 * **[大圣](https://github.com/shengxinjing)** - 花果山大圣，前开课吧讲师，公众号「花果山前端」作者。
 * **[海怪](https://github.com/haixiangyan)** - 腾讯员工，公众号「写代码的海怪」作者，写有开源小书[《Jest 实践指南》](https://github.com/haixiangyan/jest-tutorial)。
-* **[Hax](https://github.com/hax)** - 。
+* **[Hax](https://github.com/hax)** - 贺师俊，TC39 特邀专家，前端行业 20 多年发展历程见证人和参与者，OpenAtom TOC 成员。
 * **[黄玄](https://github.com/Huxpro)** - 。
 * **[黄轶](https://github.com/ustbhuangyi)** - zoom 员工，慕课网[明星讲师](https://www.imooc.com/u/3017249)，Vue.js 布道者，[《Vue.js 技术揭秘》](https://ustbhuangyi.github.io/vue-analysis/) 独立作者，《Vue.js 权威指南》主要作者。
 * **[霍春阳](https://github.com/HcySunYang)** - Vue 团队成员，[《Vue.js 设计与实现》](https://book.douban.com/subject/35768338/)作者。
