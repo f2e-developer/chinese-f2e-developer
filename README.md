@@ -22,36 +22,36 @@
 * **[技术胖](https://github.com/shenghy)** - 活跃的前端讲师，任职于百姓网。
 * **[JounQin](https://github.com/JounQin)** - 狂热开源爱好者，[@Alauda](https://github.com/alauda) 灵雀云在职员工，[unified](https://github.com/unifiedjs) 生态核心维护者和开发者，[eslint](https://github.com/eslint/eslint) 生态开发者，[eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) 和 [stylelint](https://github.com/stylelint/stylelint) 维护者。
 * **[justjavac](https://github.com/justjavac)** - 。
-* **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
 * **[卡晨](https://github.com/awmleer)** - 蚂蚁员工，[Antd Mobile](https://github.com/ant-design/ant-design-mobile) 作者。
 * **[卡颂](https://github.com/BetaSu)** - 。
+* **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
 * **[刘博文](https://github.com/berwin)** - 阿里员工，W3C 性能工作组成员，[《深入浅出 Vue.js》](https://book.douban.com/subject/32581281) 作者。
-* **[三元](https://github.com/sanyuan0704)** - 字节员工，公众号「三元同学」作者。
-* **[Scott](https://github.com/zaoscott)** - 「[前端早早聊大会](https://www.zaozao.run/)」创始人，帮 1000 多位国内外前端工程师做过职业规划与辅导。
-* **[神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
-* **[SSH](https://github.com/sl1673495)** - 单是昊，字节员工，公众号「前端从进阶到入门」作者。
-* **[死月](https://github.com/XadillaX)** - 。
-* **[童欧巴](https://github.com/Geekhyt)** - 理想汽车员工，公众号「前端食堂」、「[前端食堂技术周刊](https://github.com/Geekhyt/weekly)」作者。
-* **[秋风](https://github.com/hua1995116)** - 公众号「秋风的笔记」作者。
-* **[速冻鱼](https://github.com/sudongyuer)** - 开源爱好者，公众号「前端速冻鱼」作者，写有开源小书[《ESLint通关小册》](https://github.com/sudongyuer/learn-eslint)。
-* **[期贤](https://github.com/chenshuai2144)** - 蚂蚁员工，名望程序员，[Ant Design Pro](https://pro.ant.design/) 作者。
 * **[偏右](https://github.com/afc163)** - 蚂蚁员工，[Ant Design](https://ant.design/) 作者。
 * **[辟起](https://github.com/PeachScript)** - 蚂蚁员工，[dumi](https://d.umijs.org/) 作者。
 * **[朴灵](https://github.com/JacksonTian)** - 阿里员工，Node.js 布道者，[《深入浅出 Node.js》](https://book.douban.com/subject/25768396/) 作者。
+* **[秋风](https://github.com/hua1995116)** - 公众号「秋风的笔记」作者。
+* **[期贤](https://github.com/chenshuai2144)** - 蚂蚁员工，名望程序员，[Ant Design Pro](https://pro.ant.design/) 作者。
 * **[若川](https://github.com/lxchuan12)** - 公众号「若川视野」作者，源码共读领头人。
-* **[天猪](https://github.com/atian25)** - 。
+* **[三元](https://github.com/sanyuan0704)** - 字节员工，公众号「三元同学」作者。
+* **[Scott](https://github.com/zaoscott)** - 「[前端早早聊大会](https://www.zaozao.run/)」创始人，帮 1000 多位国内外前端工程师做过职业规划与辅导。
+* **[神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
+* **[死月](https://github.com/XadillaX)** - 。
+* **[SSH](https://github.com/sl1673495)** - 单是昊，字节员工，公众号「前端从进阶到入门」作者。
+* **[速冻鱼](https://github.com/sudongyuer)** - 开源爱好者，公众号「前端速冻鱼」作者，写有开源小书[《ESLint通关小册》](https://github.com/sudongyuer/learn-eslint)。
 * **[theanarkh](https://github.com/theanarkh)** - 字节员工，公众号「编程杂技」作者，nodejs 爱好者，写有「[通过源码分析nodejs原理](https://github.com/theanarkh/understand-nodejs)」等 nodejs 相关内容。
+* **[天猪](https://github.com/atian25)** - 。
+* **[童欧巴](https://github.com/Geekhyt)** - 理想汽车员工，公众号「前端食堂」、「[前端食堂技术周刊](https://github.com/Geekhyt/weekly)」作者。
+* **[underfin](https://github.com/underfin)** - 字节员工，vite 核心作者。[vite](https://github.com/vitejs/vite) ,vue core 核心 member。
 * **[小虎](https://github.com/xiaohuoni)** - 聪小陈，[Alita](https://github.com/alitajs/alita) 作者，Umi 核心成员。
 * **[冴羽](https://github.com/mqyqingfeng)** - 。
 * **[YCK](https://github.com/KieSun)** - 。
-* **[有知](https://github.com/kuitos)** - 蚂蚁员工，[qiankun](https://github.com/umijs/qiankun) 作者。
-* **[云谦](https://github.com/sorrycc)** - 阿里 & 蚂蚁 10 年 + 老前端，ZJU，[Umi](https://github.com/umijs/umi) & [Dva](https://github.com/dvajs/dva) & [babel-plugin-import](https://github.com/umijs/babel-plugin-import) 等开源库作者，蚂蚁中台框架 Owner，「MDH 前端周刊」作者，付费星球[「云谦 · 前端日更星球」](https://q.sorrycc.com/)作者。
-* **[月影](https://github.com/akira-cn)** - 字节员工，前奇舞团负责人，「跟月影学可视化」等课程作者。
-* **[玉伯](https://github.com/lifesinger)** - 蚂蚁员工，蚂蚁体验技术部负责人。
 * **[一丝](https://github.com/yisibl)** - 阿里员工，resvg-js 作者，iconfont.cn、PostCSS 官方开发者。
-* **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
-* **[underfin](https://github.com/underfin)** - 字节员工，vite 核心作者。[vite](https://github.com/vitejs/vite) ,vue core 核心 member。
+* **[有知](https://github.com/kuitos)** - 蚂蚁员工，[qiankun](https://github.com/umijs/qiankun) 作者。
+* **[玉伯](https://github.com/lifesinger)** - 蚂蚁员工，蚂蚁体验技术部负责人。
+* **[月影](https://github.com/akira-cn)** - 字节员工，前奇舞团负责人，「跟月影学可视化」等课程作者。
+* **[云谦](https://github.com/sorrycc)** - 阿里 & 蚂蚁 10 年 + 老前端，ZJU，[Umi](https://github.com/umijs/umi) & [Dva](https://github.com/dvajs/dva) & [babel-plugin-import](https://github.com/umijs/babel-plugin-import) 等开源库作者，蚂蚁中台框架 Owner，「MDH 前端周刊」作者，付费星球[「云谦 · 前端日更星球」](https://q.sorrycc.com/)作者。
 * **[张鑫旭](https://github.com/zhangxinxu)** - 阅文员工， 写有《CSS世界》、《CSS新世界》、《CSS选择器》，CSS领域大佬。
+* **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
 
 ## 不活跃开发者
 
