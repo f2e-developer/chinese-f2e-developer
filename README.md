@@ -34,7 +34,7 @@
 * **[期贤](https://github.com/chenshuai2144)** - 蚂蚁员工，名望程序员，[Ant Design Pro](https://pro.ant.design/) 作者。
 * **[偏右](https://github.com/afc163)** - 蚂蚁员工，[Ant Design](https://ant.design/) 作者。
 * **[辟起](https://github.com/PeachScript)** - 蚂蚁员工，[dumi](https://d.umijs.org/) 作者。
-* **[朴灵](https://github.com/JacksonTian)** - 阿里员工，NodeJs布道者，[《深入浅出Node.js》](https://book.douban.com/subject/25768396/)作者。
+* **[朴灵](https://github.com/JacksonTian)** - 阿里员工，Node.js 布道者，[《深入浅出 Node.js》](https://book.douban.com/subject/25768396/) 作者。
 * **[若川](https://github.com/lxchuan12)** - 公众号「若川视野」作者，源码共读领头人。
 * **[天猪](https://github.com/atian25)** - 。
 * **[theanarkh](https://github.com/theanarkh)** - 字节员工，公众号「编程杂技」作者，nodejs 爱好者，写有「[通过源码分析nodejs原理](https://github.com/theanarkh/understand-nodejs)」等 nodejs 相关内容。
