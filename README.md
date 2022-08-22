@@ -17,8 +17,9 @@
 * **[Hax](https://github.com/hax)** - 贺师俊，TC39 特邀专家，前端行业 20 多年发展历程见证人和参与者，OpenAtom TOC 成员。
 * **[黄玄](https://github.com/Huxpro)** - 。
 * **[黄轶](https://github.com/ustbhuangyi)** - zoom 员工，慕课网[明星讲师](https://www.imooc.com/u/3017249)，Vue.js 布道者，[《Vue.js 技术揭秘》](https://ustbhuangyi.github.io/vue-analysis/) 独立作者，《Vue.js 权威指南》主要作者。
+* **[黄子毅](https://github.com/ascoders)** - 阿里员工，[「前端精读周刊」](https://github.com/ascoders/weekly)作者。。
 * **[霍春阳](https://github.com/HcySunYang)** - Vue 团队成员，[《Vue.js 设计与实现》](https://book.douban.com/subject/35768338/)作者。
-* **‌[技术胖](https://github.com/shenghy)** - 活跃的前端讲师，任职于百姓网。
+* **[技术胖](https://github.com/shenghy)** - 活跃的前端讲师，任职于百姓网。
 * **[JounQin](https://github.com/JounQin)** - 狂热开源爱好者，[@Alauda](https://github.com/alauda) 灵雀云在职员工，[unified](https://github.com/unifiedjs) 生态核心维护者和开发者，[eslint](https://github.com/eslint/eslint) 生态开发者，[eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) 和 [stylelint](https://github.com/stylelint/stylelint) 维护者。
 * **[justjavac](https://github.com/justjavac)** - 。
 * **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
@@ -27,7 +28,7 @@
 * **[刘博文](https://github.com/berwin)** - 阿里员工，W3C 性能工作组成员，[《深入浅出 Vue.js》](https://book.douban.com/subject/32581281) 作者。
 * **[三元](https://github.com/sanyuan0704)** - 字节员工，公众号「三元同学」作者。
 * **[Scott](https://github.com/zaoscott)** - 「[前端早早聊大会](https://www.zaozao.run/)」创始人，帮 1000 多位国内外前端工程师做过职业规划与辅导。
-* **[‌神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
+* **[神光](https://github.com/QuarkGluonPlasma)** - 神说要有光，前高德、Coupang 员工，现全职自由职业，公众号「神光的编程秘籍」作者，写有[《Babel 插件通关秘籍》](https://juejin.cn/book/6946117847848321055)。
 * **[SSH](https://github.com/sl1673495)** - 单是昊，字节员工，公众号「前端从进阶到入门」作者。
 * **[死月](https://github.com/XadillaX)** - 。
 * **[童欧巴](https://github.com/Geekhyt)** - 理想汽车员工，公众号「前端食堂」、「[前端食堂技术周刊](https://github.com/Geekhyt/weekly)」作者。
