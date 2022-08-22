@@ -24,10 +24,8 @@ import pinyin from 'pinyin';
   fs.writeFileSync(filePath, newContent.join('\n'), 'utf-8');
 })();
 
-// const lineCache: Record<string, string> = {};
 
 function getKey(line: string) {
-  // if (lineCache[line]) return lineCache[line];
   const name = getName(line);
   let key;
   // why? 拼音库有问题
@@ -41,17 +39,11 @@ function getKey(line: string) {
     key = name;
   }
   key = key.toLowerCase();
-  console.log('> ', name, key);
-  // lineCache[line] = key;
   return key;
 }
 
 function getName(line: string) {
-  return line.match(/\[(.+?)\]/)![1];
-}
-
-function isEnglishChars(str: string) {
-  return /^[a-zA-Z]+$/.test(str);
+  return line.match(/\[(.+?)]/)![1];
 }
 
 function isChineseChars(str: string) {
