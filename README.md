@@ -46,7 +46,6 @@
 * **[颜海镜](https://github.com/yanhaijing)** - 公众号「颜海镜」， 写有《React状态管理与同构实战》。
 * **[冴羽](https://github.com/mqyqingfeng)** - 。
 * **[YCK](https://github.com/KieSun)** - 。
-* **[一丝](https://github.com/yisibl)** - 阿里员工，resvg-js 作者，iconfont.cn、PostCSS 官方开发者。
 * **[有知](https://github.com/kuitos)** - 蚂蚁员工，[qiankun](https://github.com/umijs/qiankun) 作者。
 * **[玉伯](https://github.com/lifesinger)** - 蚂蚁员工，蚂蚁体验技术部负责人。
 * **[月影](https://github.com/akira-cn)** - 字节员工，前奇舞团负责人，「跟月影学可视化」等课程作者。
