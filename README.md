@@ -53,6 +53,12 @@
 * **[张鑫旭](https://github.com/zhangxinxu)** - 阅文员工， 写有《CSS世界》、《CSS新世界》、《CSS选择器》，CSS领域大佬。
 * **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
 * **[颜海镜](https://github.com/yanhaijing)** - 公众号「颜海镜」， 写有《React状态管理与同构实战》。
+* **[Jinzhan](https://github.com/jinzhan)** - 百度员工，San 开源库作者。
+* **[阮一峰](https://github.com/ruanyf)** - ECMAScript 6入门作者，经济学和IT。
+* **[尤雨溪](https://github.com/yyx990803)** - vue.js 项目作者。
+* **[廖雪峰](https://github.com/michaelliao)** - 著有号称史上最浅显易懂的Git教程，口碑不错的《JS教程》。
+* **[勾三股四](https://github.com/jinjiang/)** -。
+* **[大漠](https://www.w3cplus.com/)** - W3CPlus创始人，《图解CSS3：核心技术与案例实战》作者。
 
 ## 不活跃开发者
 
