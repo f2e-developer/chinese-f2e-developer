@@ -31,6 +31,7 @@
 * **[朴灵](https://github.com/JacksonTian)** - 阿里员工，Node.js 布道者，[《深入浅出 Node.js》](https://book.douban.com/subject/25768396/) 作者。
 * **[秋风](https://github.com/hua1995116)** - 公众号「秋风的笔记」作者。
 * **[期贤](https://github.com/chenshuai2144)** - 蚂蚁员工，名望程序员，[Ant Design Pro](https://pro.ant.design/) 作者。
+* **[阮一峰](https://github.com/ruanyf)** - 。
 * **[若川](https://github.com/lxchuan12)** - 公众号「若川视野」作者，源码共读领头人。
 * **[三元](https://github.com/sanyuan0704)** - 字节员工，公众号「三元同学」作者。
 * **[Scott](https://github.com/zaoscott)** - 「[前端早早聊大会](https://www.zaozao.run/)」创始人，帮 1000 多位国内外前端工程师做过职业规划与辅导。
@@ -49,6 +50,7 @@
 * **[有知](https://github.com/kuitos)** - 蚂蚁员工，[qiankun](https://github.com/umijs/qiankun) 作者。
 * **[玉伯](https://github.com/lifesinger)** - 蚂蚁员工，蚂蚁体验技术部负责人。
 * **[月影](https://github.com/akira-cn)** - 字节员工，前奇舞团负责人，「跟月影学可视化」等课程作者。
+* **[云风](https://github.com/cloudwu)** - 。
 * **[云谦](https://github.com/sorrycc)** - 阿里 & 蚂蚁 10 年 + 老前端，ZJU，[Umi](https://github.com/umijs/umi) & [Dva](https://github.com/dvajs/dva) & [babel-plugin-import](https://github.com/umijs/babel-plugin-import) 等开源库作者，蚂蚁中台框架 Owner，「MDH 前端周刊」作者，付费星球[「云谦 · 前端日更星球」](https://q.sorrycc.com/)作者。
 * **[张鑫旭](https://github.com/zhangxinxu)** - 阅文员工， 写有《CSS世界》、《CSS新世界》、《CSS选择器》，CSS领域大佬。
 * **[砖家](https://github.com/brickspert)** - 蚂蚁员工，花名「尽龙」，[ahooks](https://github.com/alibaba/hooks) 作者，公众号「前端技术砖家」作者。
