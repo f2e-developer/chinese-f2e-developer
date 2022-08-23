@@ -12,7 +12,7 @@
 
 * **[antfu](https://github.com/antfu)** - 狂热的开源软件开发者，就职于 [NuxtLabs](https://nuxtlabs.com/)，Vitest、Slidev、VueUse、UnoCSS 等库作者，Vue、Nuxt、Vite 核心成员。
 * **[ConardLi](https://github.com/ConardLi)** - 世奇，字节员工，公众号「code秘密花园」作者。
-* **[cuixiaorui](https://github.com/cuixiaorui)** - 崔效瑞，web前端up主， [mini-vue](https://github.com/cuixiaorui/mini-vue)作者。
+* **[崔效瑞](https://github.com/cuixiaorui)** - web 前端 [up 主](https://space.bilibili.com/175301983)，[mini-vue](https://github.com/cuixiaorui/mini-vue) 作者。
 * **[大圣](https://github.com/shengxinjing)** - 花果山大圣，前开课吧讲师，公众号「花果山前端」作者。
 * **[海怪](https://github.com/haixiangyan)** - 腾讯员工，公众号「写代码的海怪」作者，写有开源小书[《Jest 实践指南》](https://github.com/haixiangyan/jest-tutorial)。
 * **[Hax](https://github.com/hax)** - 贺师俊，TC39 特邀专家，前端行业 20 多年发展历程见证人和参与者，OpenAtom TOC 成员。
