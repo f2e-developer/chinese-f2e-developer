@@ -27,6 +27,7 @@
 * **[卡颂](https://github.com/BetaSu)** - 。
 * **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
 * **[刘博文](https://github.com/berwin)** - 阿里员工，W3C 性能工作组成员，[《深入浅出 Vue.js》](https://book.douban.com/subject/32581281) 作者。
+* **[木杉](https://github.com/zhmushan)** - 前百度员工，[Deno](https://github.com/denoland) 早期核心开发者，[DenoLib](https://github.com/denolib) 成员。
 * **[偏右](https://github.com/afc163)** - 蚂蚁员工，[Ant Design](https://ant.design/) 作者。
 * **[辟起](https://github.com/PeachScript)** - 蚂蚁员工，[dumi](https://d.umijs.org/) 作者。
 * **[朴灵](https://github.com/JacksonTian)** - 阿里员工，Node.js 布道者，[《深入浅出 Node.js》](https://book.douban.com/subject/25768396/) 作者。
