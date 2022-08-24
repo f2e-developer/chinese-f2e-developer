@@ -32,6 +32,7 @@
 * **[朴灵](https://github.com/JacksonTian)** - 阿里员工，Node.js 布道者，[《深入浅出 Node.js》](https://book.douban.com/subject/25768396/) 作者。
 * **[秋风](https://github.com/hua1995116)** - 公众号「秋风的笔记」作者。
 * **[期贤](https://github.com/chenshuai2144)** - 蚂蚁员工，名望程序员，[Ant Design Pro](https://pro.ant.design/) 作者。
+* **[阮一峰](https://github.com/ruanyf)** - 。
 * **[若川](https://github.com/lxchuan12)** - 公众号「若川视野」作者，源码共读领头人。
 * **[三元](https://github.com/sanyuan0704)** - 字节员工，公众号「三元同学」作者。
 * **[Scott](https://github.com/zaoscott)** - 「[前端早早聊大会](https://www.zaozao.run/)」创始人，帮 1000 多位国内外前端工程师做过职业规划与辅导。
