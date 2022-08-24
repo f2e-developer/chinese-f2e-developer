@@ -59,7 +59,7 @@
 
 > 不再活跃的开发者会定期挪到这里。排名不分先后，以 [首字母].sort() 排序。
 
-。
+* **[司徒正美](https://github.com/RubyLouvre)** - 钟钦成，穿梭于2次元与2进制的魔法师，源码世界的顶级捕食者，去哪儿网前端架构师，《JavaScript框架设计》、《JavaScript算法入门》（手稿还未写完）、[avalon.js](https://github.com/RubyLouvre/avalon)作者... 。
 
 ## 参考
 
