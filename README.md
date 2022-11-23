@@ -45,7 +45,7 @@
 * **[童欧巴](https://github.com/Geekhyt)** - 理想汽车员工，公众号「前端食堂」、「[前端食堂技术周刊](https://github.com/Geekhyt/weekly)」作者。
 * **[underfin](https://github.com/underfin)** - 字节员工，vite 核心作者。[vite](https://github.com/vitejs/vite) ,vue core 核心 member。
 * **[小虎](https://github.com/xiaohuoni)** - 聪小陈，[Alita](https://github.com/alitajs/alita) 作者，Umi 核心成员。
-* **[颜海镜](https://github.com/yanhaijing)** - 公众号「颜海镜」， 写有《React状态管理与同构实战》。
+* **[颜海镜](https://github.com/yanhaijing)** - 公众号「颜海镜」， [jslib-base](https://github.com/yanhaijing/jslib-base) & [template.js](https://github.com/yanhaijing/template.js) 作者，写有《现代JavaScript库开发：原理、技术与实战》、《React状态管理与同构实战》。
 * **[冴羽](https://github.com/mqyqingfeng)** - 。
 * **[YCK](https://github.com/KieSun)** - 。
 * **[有知](https://github.com/kuitos)** - 蚂蚁员工，[qiankun](https://github.com/umijs/qiankun) 作者。
