@@ -24,7 +24,7 @@
 * **[JounQin](https://github.com/JounQin)** - 狂热开源爱好者，[@Alauda](https://github.com/alauda) 灵雀云在职员工，[unified](https://github.com/unifiedjs) 生态核心维护者和开发者，[eslint](https://github.com/eslint/eslint) 生态开发者，[eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) 和 [stylelint](https://github.com/stylelint/stylelint) 维护者。
 * **[justjavac](https://github.com/justjavac)** - 。
 * **[卡晨](https://github.com/awmleer)** - 蚂蚁员工，[Antd Mobile](https://github.com/ant-design/ant-design-mobile) 作者。
-* **[卡颂](https://github.com/BetaSu)** - 。
+* **[卡颂](https://github.com/BetaSu)** - 《React设计原理》作者
 * **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
 * **[刘博文](https://github.com/berwin)** - 阿里员工，W3C 性能工作组成员，[《深入浅出 Vue.js》](https://book.douban.com/subject/32581281) 作者。
 * **[偏右](https://github.com/afc163)** - 蚂蚁员工，[Ant Design](https://ant.design/) 作者。
