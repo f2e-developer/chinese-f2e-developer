@@ -11,6 +11,8 @@
 > 排名不分先后，以 [首字母].sort() 排序。
 
 * **[antfu](https://github.com/antfu)** - 狂热的开源软件开发者，就职于 [NuxtLabs](https://nuxtlabs.com/)，Vitest、Slidev、VueUse、UnoCSS 等库作者，Vue、Nuxt、Vite 核心成员。
+* **[coco](https://github.com/chokcoco/iCSS)** -  国服第一切图仔，CSS达人，公众号「iCSS 前端趣闻」作者。 
+* **[Colafornia](https://github.com/Colafornia/Colafornia.github.io)** - 字节员工，分享前端和生活感悟，很有帮助。
 * **[ConardLi](https://github.com/ConardLi)** - 世奇，字节员工，公众号「code秘密花园」作者。
 * **[崔效瑞](https://github.com/cuixiaorui)** - web 前端 [up 主](https://space.bilibili.com/175301983)，[mini-vue](https://github.com/cuixiaorui/mini-vue) 作者。
 * **[大圣](https://github.com/shengxinjing)** - 花果山大圣，前开课吧讲师，公众号「花果山前端」作者。
@@ -25,8 +27,10 @@
 * **[justjavac](https://github.com/justjavac)** - 。
 * **[卡晨](https://github.com/awmleer)** - 蚂蚁员工，[Antd Mobile](https://github.com/ant-design/ant-design-mobile) 作者。
 * **[卡颂](https://github.com/BetaSu)** - 。
+* **[灵感](https://github.com/ideazhao/blog)** - 一个追求纯粹的页面仔，一个走在路上的追梦人！一个..大龄文艺青年~
 * **[狼叔](https://github.com/i5ting)** - 阿里员工，写有《狼书》系列，即将出版《狼书(卷3)》。
 * **[刘博文](https://github.com/berwin)** - 阿里员工，W3C 性能工作组成员，[《深入浅出 Vue.js》](https://book.douban.com/subject/32581281) 作者。
+* **[没位道](https://www.c945.com/articles/page/1.html)** - 个人开发者？UI和UX方面研究深入，设计多次获奖，「[矩阵翻转](https://matrixflip.com/)」作者。
 * **[偏右](https://github.com/afc163)** - 蚂蚁员工，[Ant Design](https://ant.design/) 作者。
 * **[辟起](https://github.com/PeachScript)** - 蚂蚁员工，[dumi](https://d.umijs.org/) 作者。
 * **[朴灵](https://github.com/JacksonTian)** - 阿里员工，Node.js 布道者，[《深入浅出 Node.js》](https://book.douban.com/subject/25768396/) 作者。
@@ -44,6 +48,7 @@
 * **[天猪](https://github.com/atian25)** - 。
 * **[童欧巴](https://github.com/Geekhyt)** - 理想汽车员工，公众号「前端食堂」、「[前端食堂技术周刊](https://github.com/Geekhyt/weekly)」作者。
 * **[underfin](https://github.com/underfin)** - 字节员工，vite 核心作者。[vite](https://github.com/vitejs/vite) ,vue core 核心 member。
+* **[王嘉涛](https://github.com/chenfengyanyu/source)** - 美团高级技术专家，擅长 Web 领域，对性能优化、工程化、以及容器化略有心得。现就职于美团，负责前端公共技术建设。
 * **[小虎](https://github.com/xiaohuoni)** - 聪小陈，[Alita](https://github.com/alitajs/alita) 作者，Umi 核心成员。
 * **[颜海镜](https://github.com/yanhaijing)** - 公众号「颜海镜」， 写有《React状态管理与同构实战》。
 * **[冴羽](https://github.com/mqyqingfeng)** - 。
@@ -58,8 +63,8 @@
 ## 不活跃开发者
 
 > 不再活跃的开发者会定期挪到这里。排名不分先后，以 [首字母].sort() 排序。
-
-。
+* **[前端小蝌蚪](https://github.com/airuikun/technology-blog)** - 腾讯员工， 文章骚气有深度，故事写的太好，很好看。
+* **[羡辙](https://github.com/Ovilia/?ref=home2019/)** - 文艺女青年，网站很有特色。
 
 ## 参考
 
